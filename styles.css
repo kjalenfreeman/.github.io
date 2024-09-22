@@ -9,11 +9,11 @@ h1{
 }
 h2{
     color: slategray;
-    Font-family: Verdana, sans-serif;
+    Font-family: Courier, monospace;
 }
 .about, .skills, .projects, .contact
 {
     color: slategray;
     text-align: center;
-    font-family: 'Dancing Script', 'cursive';
+    font-family: 'American Typewriter', serif;
 }
