@@ -10,10 +10,12 @@ h1{
 h2{
     color: slategray;
     Font-family: Courier, monospace;
+    Font-family: Courier, monospace;
 }
 .about, .skills, .projects, .contact
 {
     color: slategray;
     text-align: center;
+    font-family: 'American Typewriter', serif;
     font-family: 'American Typewriter', serif;
 }
